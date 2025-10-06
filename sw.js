@@ -9,6 +9,7 @@ const staticResources = [
   '/styles.css',
   '/app.js',
   '/manifest.json',
+  '/copom-logo.png',
   '/icon-192.png',
   '/icon-512.png',
   'https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js'
