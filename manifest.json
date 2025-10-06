@@ -2,7 +2,8 @@
   "name": "Escala 2025",
   "short_name": "Escala 2025",
   "description": "Sistema de Escala de Trabalho",
-   "start_url": "/guarda/index.html",
+  "start_url": "https://saleslima.github.io/guarda/index.html",
+  "scope": "https://saleslima.github.io/guarda/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#000000",
@@ -22,4 +23,3 @@
     }
   ]
 }
-
